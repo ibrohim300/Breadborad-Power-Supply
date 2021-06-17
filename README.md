@@ -1,5 +1,9 @@
 # Breadborad-Power-Supply
 Power supply for breadboard porject. simple, easy, and low price
+Input Voltage: Max 12 V
+Output Viltage: 5V and 3.3 V
+Current Max: 1.5 A
+Components: LM317, 7805, Resistor, Capacitor, Led, and Jack 
 
 - 3D model file
 - EasyEda File (ready to edit online)
